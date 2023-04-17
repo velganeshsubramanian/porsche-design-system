@@ -28,5 +28,7 @@ UserInterfaceState.xcuserstate
 src/components/**/*.props.md
 src/components/**/readme.md
 src/test-utils/tag-names-constructor-map.ts
+src/aria-types.ts
+src/components.d.ts
 src/utils-entry.ts
 src/styles-entry.ts
